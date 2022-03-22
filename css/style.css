@@ -890,7 +890,7 @@ iframe {
   min-height: 110px;
 }
 
-.footer__social-list {
+.footer__social-list .social__list{
   margin: 0;
   padding: 0;
   display: -webkit-box;
@@ -904,7 +904,7 @@ iframe {
   list-style: none;
 }
 
-.footer__social-item {
+.footer__social-item .social__item{
   margin: 10px auto 0;
   padding: 0;
   width: 50px;
